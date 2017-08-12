@@ -1,0 +1,3 @@
+var first = ["I take the ferry to work", false];
+var second = ["I am scared of heights", true];
+var third = ["I have been to Cuba", true];
